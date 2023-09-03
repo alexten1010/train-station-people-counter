@@ -1,0 +1,60 @@
+
+  body {
+    background-image: url("charles-forerunner-gapYVvUg1M8-unsplash.jpg");-apple-system BlinkMacSWystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    height: 100vp;
+}
+
+.container {
+    background-color: rgb(167, 212, 238);
+    max-width: 80%;
+    margin:auto;
+    border: 3 PX solid black;
+    border-radius: 10px ;
+
+}
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0px
+    ;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+
+
+
+#increment-btn  {
+    background: #56d62b
+
+}
+#decrement-btn {
+    background: #e7e71c
+
+}
+
+#save-btn {
+    background: rgb(41, 32, 222);
+}
+
+
+
+
